@@ -1,0 +1,632 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Videos"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Radare2 Workshop 2015 (Defcon)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2015-09-04T20:31:25Z",
+            "owner": "Maijin",
+            "repo": "radare2-workshop-2015",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Radare2 cheat-sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2018-11-15T17:14:19Z",
+            "owner": "zxgio",
+            "repo": "r2-cheatsheet",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brief intro to RE using @radareorg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-26T10:03:24Z",
+            "owner": "arnaugamez",
+            "repo": "talks",
+            "stars": 96
+          }
+        }
+      ],
+      "title": "Slides and Workshops"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mrmcd ctf 2017 - once_upon_a_time",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-02-21T14:55:00Z",
+            "owner": "chrysh",
+            "repo": "ctf_writeups",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solving avatao's \"R3v3rs3 4\"",
+          "description": "by @sghctoma",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-04-21T15:35:45Z",
+            "owner": "sghctoma",
+            "repo": "writeups",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "CTF Writeups"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Radare2 and Frida better together",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:46:22Z",
+            "owner": "nowsecure",
+            "repo": "r2frida",
+            "stars": 1431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep ghidra decompiler integration for radare2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-21T10:29:58Z",
+            "owner": "rizinorg",
+            "repo": "rz-ghidra",
+            "stars": 966
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuzzing tool (TFuzz): a fuzzing tool based on program transformation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-03-13T02:57:15Z",
+            "owner": "HexHive",
+            "repo": "T-Fuzz",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "r2frida wiki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-11T12:21:08Z",
+            "owner": "enovella",
+            "repo": "r2frida-wiki",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malfunction - Malware Analysis Tool using Function Level Fuzzy Hashing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-12-19T07:00:24Z",
+            "owner": "Dynetics",
+            "repo": "Malfunction",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ICSREF: ICS Reverse Engineering Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T12:37:41Z",
+            "owner": "momalab",
+            "repo": "ICSREF",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android APK analyzer based on radare2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-04-09T10:25:59Z",
+            "owner": "mhelwig",
+            "repo": "apk-anal",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Radare2 VMI IO and debugger plugins",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2019-01-06T11:17:25Z",
+            "owner": "Wenzel",
+            "repo": "r2vmi",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extract labels from IDA .lst or Ghidra .csv file and export x64dbg database. Supporting radare2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-14T01:18:19Z",
+            "owner": "utkonos",
+            "repo": "lst2x64dbg",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "radare2 + miasm2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-22T16:39:13Z",
+            "owner": "guedou",
+            "repo": "r2m2",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rarop - graphical ROP chain builder using radare2 and r2pipe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-21T18:45:00Z",
+            "owner": "jpenalbae",
+            "repo": "rarop",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bootloader research tools (very much a work in progress)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-05T19:35:38Z",
+            "owner": "bx",
+            "repo": "bootloader_instrumentation_suite",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Use angr inside the radare2 debugger. Create an angr state from the current debugger state.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-11T07:40:13Z",
+            "owner": "andreafioraldi",
+            "repo": "r2angrdbg",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "predator - genetic Algorithm in C++ to evolve assembly opcodes to harm the linux system in order to identify red flags or vulnerabilities",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-04-25T17:14:13Z",
+            "owner": "sha0coder",
+            "repo": "predator",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cutter - A Qt and C++ GUI for radare2",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ThinkPwn Scanner",
+          "description": "by @d_olex and @trufae",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-05-13T16:23:34Z",
+            "owner": "Cr4sh",
+            "repo": "ThinkPwn",
+            "stars": 708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "radare2 plugin - converts asm to pseudo-C code (experimental)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T14:09:05Z",
+            "owner": "wargio",
+            "repo": "r2dec-js",
+            "stars": 606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python-r2pipe script that draws ascii and graphviz graphs of library dependencies",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T00:57:41Z",
+            "owner": "radareorg",
+            "repo": "radare2-r2pipe",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Baleful CTF task plugins",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-29T23:12:51Z",
+            "owner": "radareorg",
+            "repo": "radare2-extras",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "r2 plugin to read/write memory using the checkm8 exploit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-29T23:12:51Z",
+            "owner": "radareorg",
+            "repo": "radare2-extras",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A plugin for Hex-Ray's IDA Pro and radare2 to export the symbols recognized to the ELF symbol table",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-17T13:22:52Z",
+            "owner": "danigargu",
+            "repo": "syms2elf",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Just a simple radare2 Jupyter kernel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-12-22T15:17:18Z",
+            "owner": "guedou",
+            "repo": "jupyter-radare2",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A radare2 Plugin to perform symbolic execution with a simple macro call (r2 + angr)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-21T19:04:34Z",
+            "owner": "gast04",
+            "repo": "r4ge",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "r2kit - a set of scripts for a radare-based malware code analysis workflow",
+          "description": "by @cmatthewbrooks",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2019-01-10T00:48:26Z",
+            "owner": "cmatthewbrooks",
+            "repo": "r2kit",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "radare2-lldb integration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-01-22T10:44:45Z",
+            "owner": "nowsecure",
+            "repo": "r2lldb",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple XOR DDOS strings deobfuscator",
+          "description": "by @NighterMan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-06T18:53:39Z",
+            "owner": "jpenalbae",
+            "repo": "r2-scripts",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Decode multiple shellcodes encoded with msfencode",
+          "description": "by @NighterMan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-06T18:53:39Z",
+            "owner": "jpenalbae",
+            "repo": "r2-scripts",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "r2scapy - a radare2 plugin that decodes packets with Scapy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-11-24T08:40:10Z",
+            "owner": "guedou",
+            "repo": "r2scapy",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "r2scapy - a radare2 plugin that decodes packets with Scapy",
+          "description": "by @guedou",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-11-24T08:40:10Z",
+            "owner": "guedou",
+            "repo": "r2scapy",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collection of scripts for radare2 for MIPS arch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-01-01T13:06:17Z",
+            "owner": "mrmacete",
+            "repo": "r2scripts",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "helper radare2 script to analyze UEFI firmware modules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-08-30T14:25:18Z",
+            "owner": "mytbk",
+            "repo": "radare-uefi",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Patch kextd using radare2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-04-10T21:14:54Z",
+            "owner": "tyilo",
+            "repo": "kextd_patcher",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "r2-ropstats - a set of tools based on radare2 for analysis of ROP gadgets and payloads",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-04-20T18:15:29Z",
+            "owner": "shaded-enmity",
+            "repo": "r2-ropstats",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deobfuscation of API calls in Bitpaymer (v2)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-22T21:03:10Z",
+            "owner": "mauronz",
+            "repo": "malware_analysis",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A python script using radare2 for decrypt and patch the strings of GootKit malware",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-04-16T08:50:34Z",
+            "owner": "d00rt",
+            "repo": "gootkit_string_patcher",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extract functions and opcodes with radare2",
+          "description": "by @andrewaeva",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-02-12T16:16:11Z",
+            "owner": "andrewaeva",
+            "repo": "strange-functions",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prints agx (cross reference graph) with 2 caller levels",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-13T07:48:14Z",
+            "owner": "apasamar",
+            "repo": "radare_stuff",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malware analysis toolbox",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Scripts"
+    },
+    {
+      "description": "Please refer the guidelines at contributing.md for details.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:14:10.810Z",
+    "original_repository": "radareorg/awesome-radare2",
+    "original_repository_sha": "ecef0dd431f686a2854e4a55c154043d5211d014",
+    "enhanced_repository": "enhansome/enhansome-radare2",
+    "enhanced_repository_description": null,
+    "title": "Awesome Radare2 with stars"
+  }
+}
