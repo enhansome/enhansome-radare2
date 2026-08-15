@@ -115,7 +115,7 @@
             "last_commit": "2026-06-21T10:29:58Z",
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 966
+            "stars": 968
           }
         },
         {
@@ -622,7 +622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:03:12.968Z",
+    "last_updated": "2026-08-15T20:59:56.231Z",
     "original_repository": "radareorg/awesome-radare2",
     "original_repository_sha": "ecef0dd431f686a2854e4a55c154043d5211d014",
     "enhanced_repository": "enhansome/enhansome-radare2",
