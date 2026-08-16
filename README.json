@@ -101,7 +101,7 @@
             "last_commit": "2026-08-12T14:46:22Z",
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1431
+            "stars": 1433
           }
         },
         {
@@ -115,7 +115,7 @@
             "last_commit": "2026-06-21T10:29:58Z",
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 968
+            "stars": 969
           }
         },
         {
@@ -320,7 +320,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-07-27T14:09:05Z",
+            "last_commit": "2026-08-16T18:36:14Z",
             "owner": "wargio",
             "repo": "r2dec-js",
             "stars": 607
@@ -622,7 +622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:59:56.231Z",
+    "last_updated": "2026-08-16T20:59:07.487Z",
     "original_repository": "radareorg/awesome-radare2",
     "original_repository_sha": "ecef0dd431f686a2854e4a55c154043d5211d014",
     "enhanced_repository": "enhansome/enhansome-radare2",
