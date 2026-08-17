@@ -112,7 +112,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-21T10:29:58Z",
+            "last_commit": "2026-08-17T11:16:11Z",
             "owner": "rizinorg",
             "repo": "rz-ghidra",
             "stars": 969
@@ -622,7 +622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:59:07.487Z",
+    "last_updated": "2026-08-17T21:03:44.884Z",
     "original_repository": "radareorg/awesome-radare2",
     "original_repository_sha": "ecef0dd431f686a2854e4a55c154043d5211d014",
     "enhanced_repository": "enhansome/enhansome-radare2",
