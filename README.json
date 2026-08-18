@@ -115,7 +115,7 @@
             "last_commit": "2026-08-17T11:16:11Z",
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 969
+            "stars": 970
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-06-23T12:37:41Z",
             "owner": "momalab",
             "repo": "ICSREF",
-            "stars": 184
+            "stars": 185
           }
         },
         {
@@ -622,7 +622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:03:44.884Z",
+    "last_updated": "2026-08-18T21:00:55.191Z",
     "original_repository": "radareorg/awesome-radare2",
     "original_repository_sha": "ecef0dd431f686a2854e4a55c154043d5211d014",
     "enhanced_repository": "enhansome/enhansome-radare2",
