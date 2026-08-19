@@ -47,7 +47,7 @@
                 "last_commit": "2026-06-26T10:03:24Z",
                 "owner": "arnaugamez",
                 "repo": "talks",
-                "stars": 96
+                "stars": 97
               }
             }
           ],
@@ -651,7 +651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:49:14.261Z",
+    "last_updated": "2026-08-19T21:04:08.077Z",
     "original_repository": "radareorg/awesome-radare2",
     "original_repository_id": 134911045,
     "original_repository_sha": "ecef0dd431f686a2854e4a55c154043d5211d014",

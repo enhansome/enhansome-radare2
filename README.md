@@ -90,7 +90,7 @@ More info [here](http://rada.re/).
 
 * [Radare2 Workshop 2015 (Defcon)](https://github.com/maijin/workshop2015) ⚠️ Archived
 * [Radare2 cheat-sheet](https://github.com/zxgio/r2-cheatsheet) ⭐ 114 | 🐛 0 | 🌐 TeX | 📅 2018-11-15
-* [Brief intro to RE using @radareorg](https://github.com/arnaugamez/talks/tree/master/2018/02_noconname-lab) ⭐ 96 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-26
+* [Brief intro to RE using @radareorg](https://github.com/arnaugamez/talks/tree/master/2018/02_noconname-lab) ⭐ 97 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-26
 * [r2m2 - radare2 + miasm2 = ♥](https://guedou.github.io/r2m2_talks/2016_r2con/slides.pdf)
 * [Emulating Code In Radare2](http://radare.org/get/lacon2k15-esil.pdf)
 * [Radare from A to Z 2015](http://radare.org/get/RadareAZ-NN2015.pdf)
