@@ -204,7 +204,7 @@ More info [here](http://rada.re/).
 
 ## Tools
 
-* [Radare2 and Frida better together](https://github.com/nowsecure/r2frida) ⭐ 1,433 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-12
+* [Radare2 and Frida better together](https://github.com/nowsecure/r2frida) ⭐ 1,434 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-21
 * [Deep ghidra decompiler integration for radare2](https://github.com/radareorg/r2ghidra-dec) ⭐ 971 | 🐛 61 | 🌐 C++ | 📅 2026-08-17
 * [Fuzzing tool (TFuzz): a fuzzing tool based on program transformation](https://github.com/HexHive/T-Fuzz) ⚠️ Archived
 * [r2frida wiki](https://github.com/enovella/r2frida-wiki) ⭐ 202 | 🐛 2 | 📅 2020-12-11
@@ -224,7 +224,7 @@ More info [here](http://rada.re/).
 
 ## Scripts
 
-* [ThinkPwn Scanner](https://github.com/Cr4sh/ThinkPwn/blob/master/scan_thinkpwn.py) ⭐ 708 | 🐛 0 | 🌐 C | 📅 2022-05-13 - by @d\_olex and @trufae
+* [ThinkPwn Scanner](https://github.com/Cr4sh/ThinkPwn/blob/master/scan_thinkpwn.py) ⭐ 707 | 🐛 0 | 🌐 C | 📅 2022-05-13 - by @d\_olex and @trufae
 * [radare2 plugin - converts asm to pseudo-C code (experimental)](https://github.com/wargio/r2dec-js) ⭐ 607 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-16
 * [Python-r2pipe script that draws ascii and graphviz graphs of library dependencies](https://github.com/radare/radare2-r2pipe/blob/master/python/examples/libgraph.py) ⭐ 463 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-12
 * [Baleful CTF task plugins](https://github.com/radare/radare2-extras/tree/master/baleful) ⭐ 259 | 🐛 41 | 🌐 C | 📅 2026-07-29
@@ -257,4 +257,4 @@ More info [here](http://rada.re/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
