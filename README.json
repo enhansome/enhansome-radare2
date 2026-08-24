@@ -262,7 +262,7 @@
                 "last_commit": "2019-01-06T11:17:25Z",
                 "owner": "Wenzel",
                 "repo": "r2vmi",
-                "stars": 135
+                "stars": 136
               }
             },
             {
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:17:59.421Z",
+    "last_updated": "2026-08-24T21:06:42.590Z",
     "original_repository": "radareorg/awesome-radare2",
     "original_repository_id": 134911045,
     "original_repository_sha": "ecef0dd431f686a2854e4a55c154043d5211d014",
