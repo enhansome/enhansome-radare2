@@ -6,6 +6,35 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "r2con 2019 - videos",
+                  "description": ", r2con 2019 - materials",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 206813202,
+                    "language": "Python",
+                    "last_commit": "2020-02-19T23:34:26Z",
+                    "owner": "radareorg",
+                    "repo": "r2con2019",
+                    "stars": 137
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Conferences"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Videos"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "Radare2 Workshop 2015 (Defcon)",
               "description": null,
@@ -54,6 +83,28 @@
           "description": null,
           "node_type": "group",
           "title": "Slides and Workshops"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "This repository contains a collection of documents, scripts and utilities that will allow you to use IDA and R2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 40672425,
+                "language": "Python",
+                "last_commit": "2019-10-28T10:05:30Z",
+                "owner": "radare",
+                "repo": "radare2ida",
+                "stars": 135
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials and Blogs"
         },
         {
           "children": [
@@ -651,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:59:19.362Z",
+    "last_updated": "2026-08-24T14:17:59.421Z",
     "original_repository": "radareorg/awesome-radare2",
     "original_repository_id": 134911045,
     "original_repository_sha": "ecef0dd431f686a2854e4a55c154043d5211d014",

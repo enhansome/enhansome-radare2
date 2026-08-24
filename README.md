@@ -70,8 +70,8 @@ More info [here](http://rada.re/).
 
 ### Conferences
 
-* [HITB2019AMS - Overcoming Fear: Reversing with radare2](https://www.youtube.com/watch?v=317dNavABKo) - by @arnaugamez
 * [r2con 2019 - videos](https://www.youtube.com/watch?v=yTXNTRV3KbQ\&list=PLjIhlLNy_Y9OVAEI5KYs_4jSStmTy-24l), [r2con 2019 - materials](https://github.com/radareorg/r2con2019) ⭐ 137 | 🐛 0 | 🌐 Python | 📅 2020-02-19
+* [HITB2019AMS - Overcoming Fear: Reversing with radare2](https://www.youtube.com/watch?v=317dNavABKo) - by @arnaugamez
 * [r2con 2018](https://www.youtube.com/watch?v=hzz0qTIynPI\&list=PLjIhlLNy_Y9Po69BDCTEnrKvwLneSkG26)
 * [r2con 2017](https://www.youtube.com/watch?v=URyd4bcV-Ik\&list=PLjIhlLNy_Y9Oe-nfcPEpaki0_En5dhQ5S)
 * [LinuxDays 2017 - Disassembling with radare2](https://www.youtube.com/watch?v=zhQ1GhlgCMY)
@@ -102,6 +102,7 @@ More info [here](http://rada.re/).
 
 ## Tutorials and Blogs
 
+* [This repository contains a collection of documents, scripts and utilities that will allow you to use IDA and R2](https://github.com/radare/radare2ida) ⚠️ Archived
 * [Configuring and running radare2 on mobile Android phones](http://www.blackstormsecurity.com/docs/radare2_arm.pdf)
 * [Arbitrary Code Guard vs. Kernel Code Injections](https://www.countercraft.eu/blog/post/arbitrary-vs-kernel/)
 * [Radare2 Practical Guide](https://koffiedrinker.be/notes/radare2_practical_guide/) - by @koffiezuiper
@@ -140,7 +141,6 @@ More info [here](http://rada.re/).
 * [Disassembling 6502 code with Radare – Part I](https://retro.moe/2015/11/18/disassembling-6502-code-with-radare-part-i/) - by @ricardoquesada
 * [Disassembling 6502 code with Radare – Part II](https://retro.moe/2015/12/09/disassembling-6502-core-with-radare-part-ii/) - by @ricardoquesada
 * [Unpacking shikata-ga-nai by scripting radare2](http://radare.today/posts/unpacking-shikata-ga-nai-by-scripting-radare2/)
-* [This repository contains a collection of documents, scripts and utilities that will allow you to use IDA and R2](https://github.com/radare/radare2ida) ⚠️ Archived
 * [Raspberry PI hang instruction](https://www.nowsecure.com/blog/2015/08/16/raspberry-pi-hang-instruction/) - by @pancake
 * [Reverse Engineering With Radare2, Part 1](https://samsymons.com/blog/reverse-engineering-with-radare2-part-1/) - by @sam\_symons
 * [Simple crackme with Radare2](http://remchp.com/blog/?p=126) - by @futex90
@@ -257,4 +257,4 @@ More info [here](http://rada.re/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
