@@ -154,7 +154,7 @@
                 "archived": false,
                 "id": 35610263,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T13:48:23Z",
+                "last_commit": "2026-08-24T23:25:59Z",
                 "owner": "nowsecure",
                 "repo": "r2frida",
                 "stars": 1434
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:06:42.590Z",
+    "last_updated": "2026-08-25T06:12:15.073Z",
     "original_repository": "radareorg/awesome-radare2",
     "original_repository_id": 134911045,
     "original_repository_sha": "ecef0dd431f686a2854e4a55c154043d5211d014",
