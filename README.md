@@ -204,10 +204,10 @@ More info [here](http://rada.re/).
 
 ## Tools
 
-* [Radare2 and Frida better together](https://github.com/nowsecure/r2frida) ⭐ 1,434 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-24
+* [Radare2 and Frida better together](https://github.com/nowsecure/r2frida) ⭐ 1,435 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-24
 * [Deep ghidra decompiler integration for radare2](https://github.com/radareorg/r2ghidra-dec) ⭐ 973 | 🐛 61 | 🌐 C++ | 📅 2026-08-17
 * [Fuzzing tool (TFuzz): a fuzzing tool based on program transformation](https://github.com/HexHive/T-Fuzz) ⚠️ Archived
-* [r2frida wiki](https://github.com/enovella/r2frida-wiki) ⭐ 202 | 🐛 2 | 📅 2020-12-11
+* [r2frida wiki](https://github.com/enovella/r2frida-wiki) ⭐ 203 | 🐛 2 | 📅 2020-12-11
 * [Malfunction - Malware Analysis Tool using Function Level Fuzzy Hashing](https://github.com/Dynetics/Malfunction) ⭐ 191 | 🐛 3 | 🌐 Python | 📅 2015-12-19
 * [ICSREF: ICS Reverse Engineering Framework](https://github.com/momalab/ICSREF) ⭐ 185 | 🐛 6 | 🌐 Python | 📅 2026-06-23
 * [Android APK analyzer based on radare2](https://github.com/mhelwig/apk-anal) ⚠️ Archived
@@ -234,8 +234,8 @@ More info [here](http://rada.re/).
 * [A radare2 Plugin to perform symbolic execution with a simple macro call (r2 + angr)](https://github.com/gast04/r4ge) ⭐ 106 | 🐛 2 | 🌐 Python | 📅 2022-01-21
 * [r2kit - a set of scripts for a radare-based malware code analysis workflow](https://github.com/cmatthewbrooks/r2kit) ⚠️ Archived - by @cmatthewbrooks
 * [radare2-lldb integration](https://github.com/nowsecure/r2lldb) ⚠️ Archived
-* [Simple XOR DDOS strings deobfuscator](https://github.com/jpenalbae/r2-scripts/tree/master/ddos-xor-deobfuscator) ⭐ 61 | 🐛 0 | 🌐 JavaScript | 📅 2017-11-06 - by @NighterMan
-* [Decode multiple shellcodes encoded with msfencode](https://github.com/jpenalbae/r2-scripts/tree/master/msfdecoder) ⭐ 61 | 🐛 0 | 🌐 JavaScript | 📅 2017-11-06 - by @NighterMan
+* [Simple XOR DDOS strings deobfuscator](https://github.com/jpenalbae/r2-scripts/tree/master/ddos-xor-deobfuscator) ⭐ 60 | 🐛 0 | 🌐 JavaScript | 📅 2017-11-06 - by @NighterMan
+* [Decode multiple shellcodes encoded with msfencode](https://github.com/jpenalbae/r2-scripts/tree/master/msfdecoder) ⭐ 60 | 🐛 0 | 🌐 JavaScript | 📅 2017-11-06 - by @NighterMan
 * [r2scapy - a radare2 plugin that decodes packets with Scapy](https://github.com/guedou/r2scapy) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2017-11-24
 * [r2scapy - a radare2 plugin that decodes packets with Scapy](https://github.com/guedou/r2scapy) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2017-11-24 - by @guedou
 * [Collection of scripts for radare2 for MIPS arch](https://github.com/mrmacete/r2scripts/) ⭐ 27 | 🐛 0 | 🌐 C | 📅 2019-01-01
@@ -257,4 +257,4 @@ More info [here](http://rada.re/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
