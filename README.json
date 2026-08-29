@@ -14,12 +14,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "r2con2019 - slides and materials",
+                    "homepage": "https://rada.re/con/2019",
                     "id": 206813202,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-02-19T23:34:26Z",
+                    "open_issues": 0,
                     "owner": "radareorg",
                     "repo": "r2con2019",
-                    "stars": 137
+                    "stars": 137,
+                    "topics": [
+                      "cutter",
+                      "radare2"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:30:11.795Z"
                 }
@@ -42,12 +50,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 38920365,
                 "language": "C",
+                "license": null,
                 "last_commit": "2015-09-04T20:31:25Z",
+                "open_issues": 0,
                 "owner": "Maijin",
                 "repo": "radare2-workshop-2015",
-                "stars": 353
+                "stars": 353,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -58,12 +71,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Radare2 cheat-sheet",
+                "homepage": null,
                 "id": 85183821,
                 "language": "TeX",
+                "license": "GPL-3.0",
                 "last_commit": "2018-11-15T17:14:19Z",
+                "open_issues": 0,
                 "owner": "zxgio",
                 "repo": "r2-cheatsheet",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "cheatsheet",
+                  "radare2"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -74,12 +95,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slides, recordings and materials of my public presentations, talks and workshops.",
+                "homepage": null,
                 "id": 200830202,
                 "language": "Jupyter Notebook",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-06-26T10:03:24Z",
+                "open_issues": 0,
                 "owner": "arnaugamez",
                 "repo": "talks",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             }
@@ -97,12 +123,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tools, documentation and scripts to move projects from IDA to R2 and viceversa",
+                "homepage": null,
                 "id": 40672425,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-10-28T10:05:30Z",
+                "open_issues": 10,
                 "owner": "radare",
                 "repo": "radare2ida",
-                "stars": 135
+                "stars": 135,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             }
@@ -120,12 +151,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 104459774,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-02-21T14:55:00Z",
+                "open_issues": 0,
                 "owner": "chrysh",
                 "repo": "ctf_writeups",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "ctf",
+                  "writeup"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -136,12 +175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Writeups for various crackmes, CTFs, wargames, etc.",
+                "homepage": null,
                 "id": 44821949,
                 "language": "Ruby",
+                "license": "CC0-1.0",
                 "last_commit": "2017-04-21T15:35:45Z",
+                "open_issues": 0,
                 "owner": "sghctoma",
                 "repo": "writeups",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             }
@@ -159,12 +203,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Radare2 and Frida better together.",
+                "homepage": null,
                 "id": 35610263,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T23:25:59Z",
+                "open_issues": 44,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1435
+                "stars": 1435,
+                "topics": [
+                  "android-security",
+                  "dynamic-analysis",
+                  "frida",
+                  "ios-security",
+                  "radare2",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -175,12 +231,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep ghidra decompiler and sleigh disassembler integration for rizin",
+                "homepage": null,
                 "id": 196547485,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-17T11:16:11Z",
+                "open_issues": 61,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
-                "stars": 973
+                "stars": 973,
+                "topics": [
+                  "decompiler",
+                  "disassembler",
+                  "ghidra",
+                  "hacktoberfest",
+                  "reverse-engineering",
+                  "rizin",
+                  "sleigh"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -191,12 +260,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 127474298,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-03-13T02:57:15Z",
+                "open_issues": 6,
                 "owner": "HexHive",
                 "repo": "T-Fuzz",
-                "stars": 253
+                "stars": 253,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -207,12 +281,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo aims at providing practical examples on how to use r2frida",
+                "homepage": null,
                 "id": 153009971,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-12-11T12:21:08Z",
+                "open_issues": 2,
                 "owner": "enovella",
                 "repo": "r2frida-wiki",
-                "stars": 203
+                "stars": 203,
+                "topics": [
+                  "dynamic-analysis",
+                  "frida",
+                  "r2frida",
+                  "radare2",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -223,12 +308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Malware Analysis Tool using Function Level Fuzzy Hashing",
+                "homepage": null,
                 "id": 42738299,
                 "language": "Python",
+                "license": "LGPL-2.1",
                 "last_commit": "2015-12-19T07:00:24Z",
+                "open_issues": 3,
                 "owner": "Dynetics",
                 "repo": "Malfunction",
-                "stars": 191
+                "stars": 191,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -239,12 +329,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for reverse engineering industrial control systems binaries.",
+                "homepage": null,
                 "id": 136498910,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-23T12:37:41Z",
+                "open_issues": 6,
                 "owner": "momalab",
                 "repo": "ICSREF",
-                "stars": 185
+                "stars": 185,
+                "topics": [
+                  "binaries",
+                  "codesys",
+                  "industrial-control-systems",
+                  "reverse-engineering",
+                  "wago"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -255,12 +356,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android APK analyzer based on radare2 and others.",
+                "homepage": null,
                 "id": 109973801,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2020-04-09T10:25:59Z",
+                "open_issues": 6,
                 "owner": "mhelwig",
                 "repo": "apk-anal",
-                "stars": 154
+                "stars": 154,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -271,12 +377,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Hypervisor-Level Debugger based on Radare2 / LibVMI, using VMI IO and debug plugins",
+                "homepage": null,
                 "id": 131118240,
                 "language": "C",
+                "license": "AGPL-3.0",
                 "last_commit": "2019-01-06T11:17:25Z",
+                "open_issues": 8,
                 "owner": "Wenzel",
                 "repo": "r2vmi",
-                "stars": 136
+                "stars": 136,
+                "topics": [
+                  "debugger",
+                  "radare2",
+                  "radare2-plugin",
+                  "vmi",
+                  "xen"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -287,12 +404,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extract labels from IDA, Ghidra, Binary Ninja, and Relyze files and export x64dbg database. Including radare2 main address.",
+                "homepage": null,
                 "id": 192132238,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-11-14T01:18:19Z",
+                "open_issues": 0,
                 "owner": "utkonos",
                 "repo": "lst2x64dbg",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "binary-ninja",
+                  "extract-labels",
+                  "ghidra",
+                  "ida",
+                  "labels",
+                  "radare2",
+                  "relyze",
+                  "symbol-table"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -303,12 +434,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "radare2 + miasm2 = ♥",
+                "homepage": null,
                 "id": 67708831,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2020-01-22T16:39:13Z",
+                "open_issues": 4,
                 "owner": "guedou",
                 "repo": "r2m2",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "miasm2",
+                  "radare2",
+                  "radare2-plugin",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -319,12 +460,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graphical ROP chain builder using radare2 and r2pipe",
+                "homepage": null,
                 "id": 54065593,
                 "language": "JavaScript",
+                "license": "LGPL-3.0",
                 "last_commit": "2017-12-21T18:45:00Z",
+                "open_issues": 0,
                 "owner": "jpenalbae",
                 "repo": "rarop",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -335,12 +481,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bootloader research tools (very much a work in progress)",
+                "homepage": null,
                 "id": 89977484,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-04-05T19:35:38Z",
+                "open_issues": 0,
                 "owner": "bx",
                 "repo": "bootloader_instrumentation_suite",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -351,12 +502,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use angr inside the radare2 debugger. Create an angr state from the current debugger state.",
+                "homepage": null,
                 "id": 140069318,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2019-06-11T07:40:13Z",
+                "open_issues": 1,
                 "owner": "andreafioraldi",
                 "repo": "r2angrdbg",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "angr",
+                  "angrdbg",
+                  "concrete",
+                  "debugger",
+                  "integration",
+                  "r2",
+                  "radare2"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -367,12 +531,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Genetic Algorithm in C++ to evolve assembly opcodes to harm the linux system in order to identify red flags or vulnerabilities",
+                "homepage": null,
                 "id": 130907932,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-04-25T17:14:13Z",
+                "open_issues": 0,
                 "owner": "sha0coder",
                 "repo": "predator",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             }
@@ -390,12 +559,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Started as arbitrary System Management Mode code execution exploit for Lenovo ThinkPad model line, ended as exploit for industry-wide 0day vulnerability in machines of many vendors",
+                "homepage": null,
                 "id": 62154566,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2022-05-13T16:23:34Z",
+                "open_issues": 0,
                 "owner": "Cr4sh",
                 "repo": "ThinkPwn",
-                "stars": 707
+                "stars": 707,
+                "topics": [
+                  "0day",
+                  "exploit",
+                  "firmware",
+                  "intel",
+                  "smm",
+                  "uefi",
+                  "vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -406,12 +588,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "r2dec-js is a JavaScript-based decompiler that converts assembly code into pseudo-C. It aids users in understanding assembly by providing readable high-level explanations, making low-level programming more accessible and facilitating debugging across diverse hardware platforms.",
+                "homepage": null,
                 "id": 89411088,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-16T18:36:14Z",
+                "open_issues": 35,
                 "owner": "wargio",
                 "repo": "r2dec-js",
-                "stars": 607
+                "stars": 607,
+                "topics": [
+                  "assembly",
+                  "converts-asm",
+                  "decompiler",
+                  "duktape",
+                  "javascript",
+                  "pseudo",
+                  "radare2"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -422,12 +617,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Access radare2 via pipe from any programming language!",
+                "homepage": null,
                 "id": 70247098,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-12T00:57:41Z",
+                "open_issues": 18,
                 "owner": "radareorg",
                 "repo": "radare2-r2pipe",
-                "stars": 463
+                "stars": 463,
+                "topics": [
+                  "r2pipe",
+                  "radare2"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -438,12 +641,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source graveyard and random candy for radare2",
+                "homepage": "http://www.radare.org/",
                 "id": 5411297,
                 "language": "C",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-07-29T23:12:51Z",
+                "open_issues": 41,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
-                "stars": 259
+                "stars": 259,
+                "topics": [
+                  "r2pm",
+                  "radare2"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -454,12 +665,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source graveyard and random candy for radare2",
+                "homepage": "http://www.radare.org/",
                 "id": 5411297,
                 "language": "C",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-07-29T23:12:51Z",
+                "open_issues": 41,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
-                "stars": 259
+                "stars": 259,
+                "topics": [
+                  "r2pm",
+                  "radare2"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -470,12 +689,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin for Hex-Ray's IDA Pro and radare2 to export the symbols recognized to the ELF symbol table",
+                "homepage": null,
                 "id": 53068978,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-08-17T13:22:52Z",
+                "open_issues": 4,
                 "owner": "danigargu",
                 "repo": "syms2elf",
-                "stars": 218
+                "stars": 218,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -486,12 +710,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Just a simple radare2 Jupyter kernel",
+                "homepage": null,
                 "id": 115037542,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2017-12-22T15:17:18Z",
+                "open_issues": 0,
                 "owner": "guedou",
                 "repo": "jupyter-radare2",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "jupyter",
+                  "notebook",
+                  "radare2"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -502,12 +735,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Symbolic Execution Tool in r2",
+                "homepage": null,
                 "id": 97319226,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-01-21T19:04:34Z",
+                "open_issues": 2,
                 "owner": "gast04",
                 "repo": "r4ge",
-                "stars": 106
+                "stars": 106,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -518,12 +756,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A set of scripts for a radare-based malware code analysis workflow",
+                "homepage": null,
                 "id": 120598649,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-01-10T00:48:26Z",
+                "open_issues": 4,
                 "owner": "cmatthewbrooks",
                 "repo": "r2kit",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "malware-analysis",
+                  "radare2",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -534,12 +781,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "radare2-lldb integration",
+                "homepage": null,
                 "id": 37544253,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-01-22T10:44:45Z",
+                "open_issues": 0,
                 "owner": "nowsecure",
                 "repo": "r2lldb",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "android",
+                  "debugging",
+                  "ios",
+                  "lldb",
+                  "radare2"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -550,12 +808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Multiple radare2 rpipe scripts ",
+                "homepage": null,
                 "id": 36067284,
                 "language": "JavaScript",
+                "license": "LGPL-3.0",
                 "last_commit": "2017-11-06T18:53:39Z",
+                "open_issues": 0,
                 "owner": "jpenalbae",
                 "repo": "r2-scripts",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -566,12 +829,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Multiple radare2 rpipe scripts ",
+                "homepage": null,
                 "id": 36067284,
                 "language": "JavaScript",
+                "license": "LGPL-3.0",
                 "last_commit": "2017-11-06T18:53:39Z",
+                "open_issues": 0,
                 "owner": "jpenalbae",
                 "repo": "r2-scripts",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -582,12 +850,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a radare2 plugin that decodes packets with Scapy",
+                "homepage": null,
                 "id": 111823147,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-11-24T08:40:10Z",
+                "open_issues": 0,
                 "owner": "guedou",
                 "repo": "r2scapy",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "networking",
+                  "radare2",
+                  "radare2-plugin",
+                  "scapy"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -598,12 +876,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a radare2 plugin that decodes packets with Scapy",
+                "homepage": null,
                 "id": 111823147,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-11-24T08:40:10Z",
+                "open_issues": 0,
                 "owner": "guedou",
                 "repo": "r2scapy",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "networking",
+                  "radare2",
+                  "radare2-plugin",
+                  "scapy"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -614,12 +902,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of scripts for radare2",
+                "homepage": null,
                 "id": 42404863,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2019-01-01T13:06:17Z",
+                "open_issues": 0,
                 "owner": "mrmacete",
                 "repo": "r2scripts",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -630,12 +923,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "helper radare2 script to analyze UEFI firmware modules",
+                "homepage": null,
                 "id": 128952641,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2018-08-30T14:25:18Z",
+                "open_issues": 1,
                 "owner": "mytbk",
                 "repo": "radare-uefi",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "radare2",
+                  "uefi"
+                ]
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -646,12 +947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Patch kextd using radare2",
+                "homepage": null,
                 "id": 32283402,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-04-10T21:14:54Z",
+                "open_issues": 0,
                 "owner": "tyilo",
                 "repo": "kextd_patcher",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -662,12 +968,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of tools based on radare2 for analysis of ROP gadgets and payloads.",
+                "homepage": null,
                 "id": 28672105,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2016-04-20T18:15:29Z",
+                "open_issues": 0,
                 "owner": "shaded-enmity",
                 "repo": "r2-ropstats",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -678,12 +989,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 79068767,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-02-22T21:03:10Z",
+                "open_issues": 0,
                 "owner": "mauronz",
                 "repo": "malware_analysis",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -694,12 +1010,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python script using radare2 for decrypt and patch the strings of GootKit malware",
+                "homepage": null,
                 "id": 129712691,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-04-16T08:50:34Z",
+                "open_issues": 0,
                 "owner": "d00rt",
                 "repo": "gootkit_string_patcher",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -710,12 +1031,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extract functions and opcodes with radare2",
+                "homepage": null,
                 "id": 51599475,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-02-12T16:16:11Z",
+                "open_issues": 0,
                 "owner": "andrewaeva",
                 "repo": "strange-functions",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             },
@@ -726,12 +1052,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Radare scripts and docs",
+                "homepage": null,
                 "id": 165493436,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-12-13T07:48:14Z",
+                "open_issues": 0,
                 "owner": "apasamar",
                 "repo": "radare_stuff",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
             }
@@ -745,15 +1076,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:54:58.482Z",
+    "last_updated": "2026-08-29T04:41:35.944Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
+      "homepage": "http://rada.re",
       "id": 134911045,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2020-04-30T09:52:08Z",
+      "open_issues": 3,
       "owner": "radareorg",
       "repo": "awesome-radare2",
-      "stars": 737
+      "stars": 737,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "r2",
+        "radare2",
+        "reverse-engineering"
+      ]
     },
     "original_repository_sha": "ecef0dd431f686a2854e4a55c154043d5211d014",
     "enhanced_repository": "enhansome/enhansome-radare2",
