@@ -59,7 +59,7 @@
                 "open_issues": 0,
                 "owner": "Maijin",
                 "repo": "radare2-workshop-2015",
-                "stars": 353,
+                "stars": 354,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
@@ -208,11 +208,11 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T19:20:11Z",
+                "last_commit": "2026-09-03T01:34:54Z",
                 "open_issues": 45,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1436,
+                "stars": 1435,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T22:51:19.620Z",
+    "last_updated": "2026-09-03T22:49:35.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
