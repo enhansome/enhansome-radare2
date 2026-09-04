@@ -59,7 +59,7 @@
                 "open_issues": 0,
                 "owner": "Maijin",
                 "repo": "radare2-workshop-2015",
-                "stars": 354,
+                "stars": 355,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
@@ -208,11 +208,11 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T01:34:54Z",
+                "last_commit": "2026-09-04T17:54:51Z",
                 "open_issues": 45,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1435,
+                "stars": 1437,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -413,7 +413,7 @@
                 "open_issues": 0,
                 "owner": "utkonos",
                 "repo": "lst2x64dbg",
-                "stars": 114,
+                "stars": 115,
                 "topics": [
                   "binary-ninja",
                   "extract-labels",
@@ -626,7 +626,7 @@
                 "open_issues": 18,
                 "owner": "radareorg",
                 "repo": "radare2-r2pipe",
-                "stars": 463,
+                "stars": 464,
                 "topics": [
                   "r2pipe",
                   "radare2"
@@ -817,7 +817,7 @@
                 "open_issues": 0,
                 "owner": "jpenalbae",
                 "repo": "r2-scripts",
-                "stars": 60,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
@@ -838,7 +838,7 @@
                 "open_issues": 0,
                 "owner": "jpenalbae",
                 "repo": "r2-scripts",
-                "stars": 60,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T22:49:35.525Z",
+    "last_updated": "2026-09-04T22:32:37.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
