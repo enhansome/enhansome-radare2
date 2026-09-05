@@ -240,7 +240,7 @@
                 "open_issues": 61,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
-                "stars": 977,
+                "stars": 978,
                 "topics": [
                   "decompiler",
                   "disassembler",
@@ -626,7 +626,7 @@
                 "open_issues": 18,
                 "owner": "radareorg",
                 "repo": "radare2-r2pipe",
-                "stars": 464,
+                "stars": 465,
                 "topics": [
                   "r2pipe",
                   "radare2"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:32:37.040Z",
+    "last_updated": "2026-09-05T22:19:50.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
