@@ -212,7 +212,7 @@
                 "open_issues": 45,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1437,
+                "stars": 1438,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -568,7 +568,7 @@
                 "open_issues": 0,
                 "owner": "Cr4sh",
                 "repo": "ThinkPwn",
-                "stars": 707,
+                "stars": 708,
                 "topics": [
                   "0day",
                   "exploit",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T22:46:18.674Z",
+    "last_updated": "2026-09-10T22:47:12.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
