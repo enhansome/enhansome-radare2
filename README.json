@@ -212,7 +212,7 @@
                 "open_issues": 45,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1438,
+                "stars": 1439,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -413,7 +413,7 @@
                 "open_issues": 0,
                 "owner": "utkonos",
                 "repo": "lst2x64dbg",
-                "stars": 115,
+                "stars": 116,
                 "topics": [
                   "binary-ninja",
                   "extract-labels",
@@ -650,7 +650,7 @@
                 "open_issues": 41,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
-                "stars": 259,
+                "stars": 260,
                 "topics": [
                   "r2pm",
                   "radare2"
@@ -674,7 +674,7 @@
                 "open_issues": 41,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
-                "stars": 259,
+                "stars": 260,
                 "topics": [
                   "r2pm",
                   "radare2"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T22:47:12.822Z",
+    "last_updated": "2026-09-11T22:48:06.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
