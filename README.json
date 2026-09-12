@@ -240,7 +240,7 @@
                 "open_issues": 61,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
-                "stars": 979,
+                "stars": 980,
                 "topics": [
                   "decompiler",
                   "disassembler",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T22:48:06.168Z",
+    "last_updated": "2026-09-12T22:34:12.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
