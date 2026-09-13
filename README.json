@@ -208,7 +208,7 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T22:23:05Z",
+                "last_commit": "2026-09-13T20:05:20Z",
                 "open_issues": 45,
                 "owner": "nowsecure",
                 "repo": "r2frida",
@@ -568,7 +568,7 @@
                 "open_issues": 0,
                 "owner": "Cr4sh",
                 "repo": "ThinkPwn",
-                "stars": 708,
+                "stars": 709,
                 "topics": [
                   "0day",
                   "exploit",
@@ -622,7 +622,7 @@
                 "id": 70247098,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-08-12T00:57:41Z",
+                "last_commit": "2026-09-13T21:48:21Z",
                 "open_issues": 18,
                 "owner": "radareorg",
                 "repo": "radare2-r2pipe",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T22:34:12.200Z",
+    "last_updated": "2026-09-13T22:37:47.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
