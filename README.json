@@ -212,7 +212,7 @@
                 "open_issues": 45,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1439,
+                "stars": 1440,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -622,11 +622,11 @@
                 "id": 70247098,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-13T21:48:21Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-14T00:03:37Z",
+                "open_issues": 19,
                 "owner": "radareorg",
                 "repo": "radare2-r2pipe",
-                "stars": 465,
+                "stars": 464,
                 "topics": [
                   "r2pipe",
                   "radare2"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T22:37:47.695Z",
+    "last_updated": "2026-09-14T23:30:08.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
