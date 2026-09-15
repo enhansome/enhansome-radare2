@@ -626,7 +626,7 @@
                 "open_issues": 19,
                 "owner": "radareorg",
                 "repo": "radare2-r2pipe",
-                "stars": 464,
+                "stars": 465,
                 "topics": [
                   "r2pipe",
                   "radare2"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:30:08.666Z",
+    "last_updated": "2026-09-15T23:11:13.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
