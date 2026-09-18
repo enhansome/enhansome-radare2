@@ -59,7 +59,7 @@
                 "open_issues": 0,
                 "owner": "Maijin",
                 "repo": "radare2-workshop-2015",
-                "stars": 356,
+                "stars": 357,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
@@ -208,11 +208,11 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T20:42:06Z",
-                "open_issues": 45,
+                "last_commit": "2026-09-18T19:53:08Z",
+                "open_issues": 46,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1440,
+                "stars": 1439,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -597,7 +597,7 @@
                 "open_issues": 35,
                 "owner": "wargio",
                 "repo": "r2dec-js",
-                "stars": 609,
+                "stars": 610,
                 "topics": [
                   "assembly",
                   "converts-asm",
@@ -626,7 +626,7 @@
                 "open_issues": 19,
                 "owner": "radareorg",
                 "repo": "radare2-r2pipe",
-                "stars": 465,
+                "stars": 466,
                 "topics": [
                   "r2pipe",
                   "radare2"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T23:06:52.449Z",
+    "last_updated": "2026-09-18T22:49:48.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
