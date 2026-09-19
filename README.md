@@ -204,7 +204,7 @@ More info [here](http://rada.re/).
 
 ## Tools
 
-* [Radare2 and Frida better together](https://github.com/nowsecure/r2frida) ⭐ 1,439 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-18
+* [Radare2 and Frida better together](https://github.com/nowsecure/r2frida) ⭐ 1,440 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-19
 * [Deep ghidra decompiler integration for radare2](https://github.com/radareorg/r2ghidra-dec) ⭐ 981 | 🐛 61 | 🌐 C++ | 📅 2026-08-17
 * [Fuzzing tool (TFuzz): a fuzzing tool based on program transformation](https://github.com/HexHive/T-Fuzz) ⚠️ Archived
 * [r2frida wiki](https://github.com/enovella/r2frida-wiki) ⭐ 203 | 🐛 2 | 📅 2020-12-11
@@ -226,7 +226,7 @@ More info [here](http://rada.re/).
 
 * [ThinkPwn Scanner](https://github.com/Cr4sh/ThinkPwn/blob/master/scan_thinkpwn.py) ⭐ 709 | 🐛 0 | 🌐 C | 📅 2022-05-13 - by @d\_olex and @trufae
 * [radare2 plugin - converts asm to pseudo-C code (experimental)](https://github.com/wargio/r2dec-js) ⭐ 610 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-16
-* [Python-r2pipe script that draws ascii and graphviz graphs of library dependencies](https://github.com/radare/radare2-r2pipe/blob/master/python/examples/libgraph.py) ⭐ 466 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-14
+* [Python-r2pipe script that draws ascii and graphviz graphs of library dependencies](https://github.com/radare/radare2-r2pipe/blob/master/python/examples/libgraph.py) ⭐ 465 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-14
 * [Baleful CTF task plugins](https://github.com/radare/radare2-extras/tree/master/baleful) ⭐ 260 | 🐛 41 | 🌐 C | 📅 2026-08-31
 * [r2 plugin to read/write memory using the checkm8 exploit](https://github.com/radareorg/radare2-extras/tree/master/checkm8) ⭐ 260 | 🐛 41 | 🌐 C | 📅 2026-08-31
 * [A plugin for Hex-Ray's IDA Pro and radare2 to export the symbols recognized to the ELF symbol table](https://github.com/danigargu/syms2elf) ⭐ 218 | 🐛 4 | 🌐 Python | 📅 2022-08-17
@@ -257,4 +257,4 @@ More info [here](http://rada.re/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
