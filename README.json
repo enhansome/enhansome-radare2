@@ -212,7 +212,7 @@
                 "open_issues": 47,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1440,
+                "stars": 1441,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:16:53.231Z",
+    "last_updated": "2026-09-23T23:10:39.584Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
