@@ -647,10 +647,10 @@
                 "language": "C",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-08-31T17:22:52Z",
-                "open_issues": 41,
+                "open_issues": 40,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "r2pm",
                   "radare2"
@@ -671,10 +671,10 @@
                 "language": "C",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-08-31T17:22:52Z",
-                "open_issues": 41,
+                "open_issues": 40,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "r2pm",
                   "radare2"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T23:35:24.539Z",
+    "last_updated": "2026-09-26T23:09:57.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
@@ -1088,7 +1088,7 @@
       "open_issues": 3,
       "owner": "radareorg",
       "repo": "awesome-radare2",
-      "stars": 737,
+      "stars": 736,
       "topics": [
         "awesome",
         "awesome-list",
