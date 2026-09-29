@@ -208,8 +208,8 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-27T19:09:33Z",
-                "open_issues": 47,
+                "last_commit": "2026-09-28T22:11:37Z",
+                "open_issues": 38,
                 "owner": "nowsecure",
                 "repo": "r2frida",
                 "stars": 1443,
@@ -236,7 +236,7 @@
                 "id": 196547485,
                 "language": "C++",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-08-17T11:16:11Z",
+                "last_commit": "2026-09-28T05:58:13Z",
                 "open_issues": 62,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
@@ -650,7 +650,7 @@
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
-                "stars": 261,
+                "stars": 262,
                 "topics": [
                   "r2pm",
                   "radare2"
@@ -674,7 +674,7 @@
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
-                "stars": 261,
+                "stars": 262,
                 "topics": [
                   "r2pm",
                   "radare2"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:24:58.486Z",
+    "last_updated": "2026-09-29T00:34:47.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
@@ -1088,7 +1088,7 @@
       "open_issues": 3,
       "owner": "radareorg",
       "repo": "awesome-radare2",
-      "stars": 736,
+      "stars": 737,
       "topics": [
         "awesome",
         "awesome-list",
