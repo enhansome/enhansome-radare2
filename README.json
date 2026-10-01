@@ -208,11 +208,11 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-28T22:11:37Z",
+                "last_commit": "2026-09-30T08:07:26Z",
                 "open_issues": 38,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1445,
+                "stars": 1447,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:57:35.899Z",
+    "last_updated": "2026-10-01T00:11:14.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
