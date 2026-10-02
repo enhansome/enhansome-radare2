@@ -208,7 +208,7 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T08:07:26Z",
+                "last_commit": "2026-10-01T15:18:21Z",
                 "open_issues": 38,
                 "owner": "nowsecure",
                 "repo": "r2frida",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:11:14.438Z",
+    "last_updated": "2026-10-02T00:14:57.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
