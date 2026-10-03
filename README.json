@@ -46,7 +46,7 @@
             {
               "node_type": "item",
               "title": "Radare2 Workshop 2015 (Defcon)",
-              "description": null,
+              "description": "Maijin/radare2-workshop-2015",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -67,7 +67,7 @@
             {
               "node_type": "item",
               "title": "Radare2 cheat-sheet",
-              "description": null,
+              "description": "zxgio/r2-cheatsheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -91,7 +91,7 @@
             {
               "node_type": "item",
               "title": "Brief intro to RE using @radareorg",
-              "description": null,
+              "description": "arnaugamez/talks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -119,7 +119,7 @@
             {
               "node_type": "item",
               "title": "This repository contains a collection of documents, scripts and utilities that will allow you to use IDA and R2",
-              "description": null,
+              "description": "radare/radare2ida",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -147,7 +147,7 @@
             {
               "node_type": "item",
               "title": "mrmcd ctf 2017 - once_upon_a_time",
-              "description": null,
+              "description": "chrysh/ctf_writeups",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -199,7 +199,7 @@
             {
               "node_type": "item",
               "title": "Radare2 and Frida better together",
-              "description": null,
+              "description": "nowsecure/r2frida",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -227,7 +227,7 @@
             {
               "node_type": "item",
               "title": "Deep ghidra decompiler integration for radare2",
-              "description": null,
+              "description": "rizinorg/rz-ghidra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -256,7 +256,7 @@
             {
               "node_type": "item",
               "title": "Fuzzing tool (TFuzz): a fuzzing tool based on program transformation",
-              "description": null,
+              "description": "HexHive/T-Fuzz",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -277,7 +277,7 @@
             {
               "node_type": "item",
               "title": "r2frida wiki",
-              "description": null,
+              "description": "enovella/r2frida-wiki",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -304,7 +304,7 @@
             {
               "node_type": "item",
               "title": "Malfunction - Malware Analysis Tool using Function Level Fuzzy Hashing",
-              "description": null,
+              "description": "Dynetics/Malfunction",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -325,7 +325,7 @@
             {
               "node_type": "item",
               "title": "ICSREF: ICS Reverse Engineering Framework",
-              "description": null,
+              "description": "momalab/ICSREF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -352,7 +352,7 @@
             {
               "node_type": "item",
               "title": "Android APK analyzer based on radare2",
-              "description": null,
+              "description": "mhelwig/apk-anal",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -373,7 +373,7 @@
             {
               "node_type": "item",
               "title": "Radare2 VMI IO and debugger plugins",
-              "description": null,
+              "description": "Wenzel/r2vmi",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -400,7 +400,7 @@
             {
               "node_type": "item",
               "title": "Extract labels from IDA .lst or Ghidra .csv file and export x64dbg database. Supporting radare2",
-              "description": null,
+              "description": "utkonos/lst2x64dbg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -430,7 +430,7 @@
             {
               "node_type": "item",
               "title": "radare2 + miasm2",
-              "description": null,
+              "description": "guedou/r2m2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -456,7 +456,7 @@
             {
               "node_type": "item",
               "title": "rarop - graphical ROP chain builder using radare2 and r2pipe",
-              "description": null,
+              "description": "jpenalbae/rarop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -477,7 +477,7 @@
             {
               "node_type": "item",
               "title": "Bootloader research tools (very much a work in progress)",
-              "description": null,
+              "description": "bx/bootloader_instrumentation_suite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -498,7 +498,7 @@
             {
               "node_type": "item",
               "title": "Use angr inside the radare2 debugger. Create an angr state from the current debugger state.",
-              "description": null,
+              "description": "andreafioraldi/r2angrdbg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -527,7 +527,7 @@
             {
               "node_type": "item",
               "title": "predator - genetic Algorithm in C++ to evolve assembly opcodes to harm the linux system in order to identify red flags or vulnerabilities",
-              "description": null,
+              "description": "sha0coder/predator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -568,7 +568,7 @@
                 "open_issues": 0,
                 "owner": "Cr4sh",
                 "repo": "ThinkPwn",
-                "stars": 709,
+                "stars": 710,
                 "topics": [
                   "0day",
                   "exploit",
@@ -584,7 +584,7 @@
             {
               "node_type": "item",
               "title": "radare2 plugin - converts asm to pseudo-C code (experimental)",
-              "description": null,
+              "description": "wargio/r2dec-js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -613,7 +613,7 @@
             {
               "node_type": "item",
               "title": "Python-r2pipe script that draws ascii and graphviz graphs of library dependencies",
-              "description": null,
+              "description": "radareorg/radare2-r2pipe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -637,7 +637,7 @@
             {
               "node_type": "item",
               "title": "Baleful CTF task plugins",
-              "description": null,
+              "description": "radareorg/radare2-extras",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -661,7 +661,7 @@
             {
               "node_type": "item",
               "title": "r2 plugin to read/write memory using the checkm8 exploit",
-              "description": null,
+              "description": "radareorg/radare2-extras",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -685,7 +685,7 @@
             {
               "node_type": "item",
               "title": "A plugin for Hex-Ray's IDA Pro and radare2 to export the symbols recognized to the ELF symbol table",
-              "description": null,
+              "description": "danigargu/syms2elf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -706,7 +706,7 @@
             {
               "node_type": "item",
               "title": "Just a simple radare2 Jupyter kernel",
-              "description": null,
+              "description": "guedou/jupyter-radare2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -731,7 +731,7 @@
             {
               "node_type": "item",
               "title": "A radare2 Plugin to perform symbolic execution with a simple macro call (r2 + angr)",
-              "description": null,
+              "description": "gast04/r4ge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -777,7 +777,7 @@
             {
               "node_type": "item",
               "title": "radare2-lldb integration",
-              "description": null,
+              "description": "nowsecure/r2lldb",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -846,7 +846,7 @@
             {
               "node_type": "item",
               "title": "r2scapy - a radare2 plugin that decodes packets with Scapy",
-              "description": null,
+              "description": "guedou/r2scapy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -898,7 +898,7 @@
             {
               "node_type": "item",
               "title": "Collection of scripts for radare2 for MIPS arch",
-              "description": null,
+              "description": "mrmacete/r2scripts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -919,7 +919,7 @@
             {
               "node_type": "item",
               "title": "helper radare2 script to analyze UEFI firmware modules",
-              "description": null,
+              "description": "mytbk/radare-uefi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -943,7 +943,7 @@
             {
               "node_type": "item",
               "title": "Patch kextd using radare2",
-              "description": null,
+              "description": "tyilo/kextd_patcher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -964,7 +964,7 @@
             {
               "node_type": "item",
               "title": "r2-ropstats - a set of tools based on radare2 for analysis of ROP gadgets and payloads",
-              "description": null,
+              "description": "shaded-enmity/r2-ropstats",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -985,7 +985,7 @@
             {
               "node_type": "item",
               "title": "Deobfuscation of API calls in Bitpaymer (v2)",
-              "description": null,
+              "description": "mauronz/malware_analysis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1006,7 +1006,7 @@
             {
               "node_type": "item",
               "title": "A python script using radare2 for decrypt and patch the strings of GootKit malware",
-              "description": null,
+              "description": "d00rt/gootkit_string_patcher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1048,7 +1048,7 @@
             {
               "node_type": "item",
               "title": "Prints agx (cross reference graph) with 2 caller levels",
-              "description": null,
+              "description": "apasamar/radare_stuff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:59:49.376Z",
+    "last_updated": "2026-10-03T05:06:23.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",

@@ -224,7 +224,7 @@ More info [here](http://rada.re/).
 
 ## Scripts
 
-* [ThinkPwn Scanner](https://github.com/Cr4sh/ThinkPwn/blob/master/scan_thinkpwn.py) ⭐ 709 | 🐛 0 | 🌐 C | 📅 2022-05-13 - by @d\_olex and @trufae
+* [ThinkPwn Scanner](https://github.com/Cr4sh/ThinkPwn/blob/master/scan_thinkpwn.py) ⭐ 710 | 🐛 0 | 🌐 C | 📅 2022-05-13 - by @d\_olex and @trufae
 * [radare2 plugin - converts asm to pseudo-C code (experimental)](https://github.com/wargio/r2dec-js) ⭐ 610 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-16
 * [Python-r2pipe script that draws ascii and graphviz graphs of library dependencies](https://github.com/radare/radare2-r2pipe/blob/master/python/examples/libgraph.py) ⭐ 465 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-14
 * [Baleful CTF task plugins](https://github.com/radare/radare2-extras/tree/master/baleful) ⭐ 262 | 🐛 37 | 🌐 C | 📅 2026-09-27
@@ -257,4 +257,4 @@ More info [here](http://rada.re/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
