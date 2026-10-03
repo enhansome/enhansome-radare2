@@ -237,10 +237,10 @@
                 "language": "C++",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-09-28T05:58:13Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
-                "stars": 983,
+                "stars": 984,
                 "topics": [
                   "decompiler",
                   "disassembler",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:06:23.100Z",
+    "last_updated": "2026-10-03T23:20:14.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
