@@ -208,8 +208,8 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-04T05:30:35Z",
-                "open_issues": 41,
+                "last_commit": "2026-10-05T22:36:54Z",
+                "open_issues": 42,
                 "owner": "nowsecure",
                 "repo": "r2frida",
                 "stars": 1447,
@@ -240,7 +240,7 @@
                 "open_issues": 63,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
-                "stars": 985,
+                "stars": 986,
                 "topics": [
                   "decompiler",
                   "disassembler",
@@ -597,7 +597,7 @@
                 "open_issues": 36,
                 "owner": "wargio",
                 "repo": "r2dec-js",
-                "stars": 610,
+                "stars": 609,
                 "topics": [
                   "assembly",
                   "converts-asm",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:36:35.456Z",
+    "last_updated": "2026-10-06T01:29:32.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",

@@ -204,8 +204,8 @@ More info [here](http://rada.re/).
 
 ## Tools
 
-* [Radare2 and Frida better together](https://github.com/nowsecure/r2frida) ⭐ 1,447 | 🐛 41 | 🌐 TypeScript | 📅 2026-10-04
-* [Deep ghidra decompiler integration for radare2](https://github.com/radareorg/r2ghidra-dec) ⭐ 985 | 🐛 63 | 🌐 C++ | 📅 2026-09-28
+* [Radare2 and Frida better together](https://github.com/nowsecure/r2frida) ⭐ 1,447 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-05
+* [Deep ghidra decompiler integration for radare2](https://github.com/radareorg/r2ghidra-dec) ⭐ 986 | 🐛 63 | 🌐 C++ | 📅 2026-09-28
 * [Fuzzing tool (TFuzz): a fuzzing tool based on program transformation](https://github.com/HexHive/T-Fuzz) ⚠️ Archived
 * [r2frida wiki](https://github.com/enovella/r2frida-wiki) ⭐ 203 | 🐛 2 | 📅 2020-12-11
 * [Malfunction - Malware Analysis Tool using Function Level Fuzzy Hashing](https://github.com/Dynetics/Malfunction) ⭐ 191 | 🐛 3 | 🌐 Python | 📅 2015-12-19
@@ -225,7 +225,7 @@ More info [here](http://rada.re/).
 ## Scripts
 
 * [ThinkPwn Scanner](https://github.com/Cr4sh/ThinkPwn/blob/master/scan_thinkpwn.py) ⭐ 710 | 🐛 0 | 🌐 C | 📅 2022-05-13 - by @d\_olex and @trufae
-* [radare2 plugin - converts asm to pseudo-C code (experimental)](https://github.com/wargio/r2dec-js) ⭐ 610 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-16
+* [radare2 plugin - converts asm to pseudo-C code (experimental)](https://github.com/wargio/r2dec-js) ⭐ 609 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-16
 * [Python-r2pipe script that draws ascii and graphviz graphs of library dependencies](https://github.com/radare/radare2-r2pipe/blob/master/python/examples/libgraph.py) ⭐ 465 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-14
 * [Baleful CTF task plugins](https://github.com/radare/radare2-extras/tree/master/baleful) ⭐ 262 | 🐛 37 | 🌐 C | 📅 2026-09-27
 * [r2 plugin to read/write memory using the checkm8 exploit](https://github.com/radareorg/radare2-extras/tree/master/checkm8) ⭐ 262 | 🐛 37 | 🌐 C | 📅 2026-09-27
@@ -257,4 +257,4 @@ More info [here](http://rada.re/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
