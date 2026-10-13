@@ -208,11 +208,11 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-11T00:58:27Z",
+                "last_commit": "2026-10-13T16:41:44Z",
                 "open_issues": 44,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1449,
+                "stars": 1450,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -240,7 +240,7 @@
                 "open_issues": 64,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
-                "stars": 991,
+                "stars": 992,
                 "topics": [
                   "decompiler",
                   "disassembler",
@@ -597,7 +597,7 @@
                 "open_issues": 36,
                 "owner": "wargio",
                 "repo": "r2dec-js",
-                "stars": 610,
+                "stars": 611,
                 "topics": [
                   "assembly",
                   "converts-asm",
@@ -646,7 +646,7 @@
                 "id": 5411297,
                 "language": "C",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-27T05:36:17Z",
+                "last_commit": "2026-10-13T06:46:23Z",
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
@@ -670,7 +670,7 @@
                 "id": 5411297,
                 "language": "C",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-27T05:36:17Z",
+                "last_commit": "2026-10-13T06:46:23Z",
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:15:12.454Z",
+    "last_updated": "2026-10-13T23:55:52.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
@@ -1088,7 +1088,7 @@
       "open_issues": 3,
       "owner": "radareorg",
       "repo": "awesome-radare2",
-      "stars": 738,
+      "stars": 739,
       "topics": [
         "awesome",
         "awesome-list",
