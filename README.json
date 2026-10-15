@@ -622,8 +622,8 @@
                 "id": 70247098,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-14T00:03:37Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-15T19:15:24Z",
+                "open_issues": 17,
                 "owner": "radareorg",
                 "repo": "radare2-r2pipe",
                 "stars": 466,
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T23:27:33.914Z",
+    "last_updated": "2026-10-15T23:18:36.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
