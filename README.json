@@ -208,8 +208,8 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T16:41:44Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-16T17:49:44Z",
+                "open_issues": 45,
                 "owner": "nowsecure",
                 "repo": "r2frida",
                 "stars": 1450,
@@ -240,7 +240,7 @@
                 "open_issues": 64,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
-                "stars": 993,
+                "stars": 995,
                 "topics": [
                   "decompiler",
                   "disassembler",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:18:36.045Z",
+    "last_updated": "2026-10-16T23:02:13.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
