@@ -240,7 +240,7 @@
                 "open_issues": 64,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
-                "stars": 995,
+                "stars": 997,
                 "topics": [
                   "decompiler",
                   "disassembler",
@@ -622,11 +622,11 @@
                 "id": 70247098,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-15T19:15:24Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-18T16:52:09Z",
+                "open_issues": 12,
                 "owner": "radareorg",
                 "repo": "radare2-r2pipe",
-                "stars": 466,
+                "stars": 467,
                 "topics": [
                   "r2pipe",
                   "radare2"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T22:41:02.756Z",
+    "last_updated": "2026-10-18T22:36:54.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
