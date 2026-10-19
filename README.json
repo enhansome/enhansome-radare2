@@ -212,7 +212,7 @@
                 "open_issues": 45,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1450,
+                "stars": 1451,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -597,7 +597,7 @@
                 "open_issues": 36,
                 "owner": "wargio",
                 "repo": "r2dec-js",
-                "stars": 611,
+                "stars": 612,
                 "topics": [
                   "assembly",
                   "converts-asm",
@@ -622,11 +622,11 @@
                 "id": 70247098,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-18T16:52:09Z",
+                "last_commit": "2026-10-19T23:36:59Z",
                 "open_issues": 12,
                 "owner": "radareorg",
                 "repo": "radare2-r2pipe",
-                "stars": 467,
+                "stars": 468,
                 "topics": [
                   "r2pipe",
                   "radare2"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T22:36:54.793Z",
+    "last_updated": "2026-10-19T23:56:45.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
