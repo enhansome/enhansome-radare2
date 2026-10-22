@@ -208,11 +208,11 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T16:33:50Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-22T05:54:19Z",
+                "open_issues": 46,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1451,
+                "stars": 1450,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -236,8 +236,8 @@
                 "id": 196547485,
                 "language": "C++",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-21T15:49:01Z",
-                "open_issues": 64,
+                "last_commit": "2026-10-22T15:17:04Z",
+                "open_issues": 63,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
                 "stars": 997,
@@ -568,7 +568,7 @@
                 "open_issues": 0,
                 "owner": "Cr4sh",
                 "repo": "ThinkPwn",
-                "stars": 710,
+                "stars": 711,
                 "topics": [
                   "0day",
                   "exploit",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T23:39:35.494Z",
+    "last_updated": "2026-10-22T23:37:26.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
