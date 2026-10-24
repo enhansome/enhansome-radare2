@@ -240,7 +240,7 @@
                 "open_issues": 63,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
-                "stars": 997,
+                "stars": 998,
                 "topics": [
                   "decompiler",
                   "disassembler",
@@ -443,7 +443,7 @@
                 "open_issues": 4,
                 "owner": "guedou",
                 "repo": "r2m2",
-                "stars": 103,
+                "stars": 102,
                 "topics": [
                   "miasm2",
                   "radare2",
@@ -650,7 +650,7 @@
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
-                "stars": 262,
+                "stars": 263,
                 "topics": [
                   "r2pm",
                   "radare2"
@@ -674,7 +674,7 @@
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
-                "stars": 262,
+                "stars": 263,
                 "topics": [
                   "r2pm",
                   "radare2"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:32:23.184Z",
+    "last_updated": "2026-10-24T22:44:33.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
@@ -1088,7 +1088,7 @@
       "open_issues": 3,
       "owner": "radareorg",
       "repo": "awesome-radare2",
-      "stars": 739,
+      "stars": 738,
       "topics": [
         "awesome",
         "awesome-list",
