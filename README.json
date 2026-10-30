@@ -212,7 +212,7 @@
                 "open_issues": 48,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1449,
+                "stars": 1450,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -240,7 +240,7 @@
                 "open_issues": 64,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
-                "stars": 1000,
+                "stars": 1001,
                 "topics": [
                   "decompiler",
                   "disassembler",
@@ -646,7 +646,7 @@
                 "id": 5411297,
                 "language": "C",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-26T23:30:38Z",
+                "last_commit": "2026-10-29T23:14:24Z",
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
@@ -670,7 +670,7 @@
                 "id": 5411297,
                 "language": "C",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-26T23:30:38Z",
+                "last_commit": "2026-10-29T23:14:24Z",
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T00:26:14.251Z",
+    "last_updated": "2026-10-30T00:25:20.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
