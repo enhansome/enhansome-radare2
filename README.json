@@ -236,7 +236,7 @@
                 "id": 196547485,
                 "language": "C++",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-22T15:17:04Z",
+                "last_commit": "2026-10-31T12:31:46Z",
                 "open_issues": 64,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
@@ -568,7 +568,7 @@
                 "open_issues": 0,
                 "owner": "Cr4sh",
                 "repo": "ThinkPwn",
-                "stars": 710,
+                "stars": 711,
                 "topics": [
                   "0day",
                   "exploit",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T00:06:06.916Z",
+    "last_updated": "2026-10-31T23:46:27.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
