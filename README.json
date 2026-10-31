@@ -132,7 +132,7 @@
                 "open_issues": 10,
                 "owner": "radare",
                 "repo": "radare2ida",
-                "stars": 134,
+                "stars": 135,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
@@ -208,8 +208,8 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T19:01:24Z",
-                "open_issues": 48,
+                "last_commit": "2026-10-30T15:27:04Z",
+                "open_issues": 45,
                 "owner": "nowsecure",
                 "repo": "r2frida",
                 "stars": 1450,
@@ -240,7 +240,7 @@
                 "open_issues": 64,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
-                "stars": 1001,
+                "stars": 1002,
                 "topics": [
                   "decompiler",
                   "disassembler",
@@ -646,7 +646,7 @@
                 "id": 5411297,
                 "language": "C",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-29T23:14:24Z",
+                "last_commit": "2026-10-30T18:53:18Z",
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
@@ -670,7 +670,7 @@
                 "id": 5411297,
                 "language": "C",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-29T23:14:24Z",
+                "last_commit": "2026-10-30T18:53:18Z",
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T00:25:20.071Z",
+    "last_updated": "2026-10-31T00:06:06.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
