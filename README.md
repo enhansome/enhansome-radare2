@@ -226,9 +226,9 @@ More info [here](http://rada.re/).
 
 * [ThinkPwn Scanner](https://github.com/Cr4sh/ThinkPwn/blob/master/scan_thinkpwn.py) ⭐ 711 | 🐛 0 | 🌐 C | 📅 2022-05-13 - by @d\_olex and @trufae
 * [radare2 plugin - converts asm to pseudo-C code (experimental)](https://github.com/wargio/r2dec-js) ⭐ 613 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-16
-* [Python-r2pipe script that draws ascii and graphviz graphs of library dependencies](https://github.com/radare/radare2-r2pipe/blob/master/python/examples/libgraph.py) ⭐ 468 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-21
-* [Baleful CTF task plugins](https://github.com/radare/radare2-extras/tree/master/baleful) ⭐ 263 | 🐛 38 | 🌐 C | 📅 2026-11-02
-* [r2 plugin to read/write memory using the checkm8 exploit](https://github.com/radareorg/radare2-extras/tree/master/checkm8) ⭐ 263 | 🐛 38 | 🌐 C | 📅 2026-11-02
+* [Python-r2pipe script that draws ascii and graphviz graphs of library dependencies](https://github.com/radare/radare2-r2pipe/blob/master/python/examples/libgraph.py) ⭐ 469 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-21
+* [Baleful CTF task plugins](https://github.com/radare/radare2-extras/tree/master/baleful) ⭐ 263 | 🐛 37 | 🌐 C | 📅 2026-11-03
+* [r2 plugin to read/write memory using the checkm8 exploit](https://github.com/radareorg/radare2-extras/tree/master/checkm8) ⭐ 263 | 🐛 37 | 🌐 C | 📅 2026-11-03
 * [A plugin for Hex-Ray's IDA Pro and radare2 to export the symbols recognized to the ELF symbol table](https://github.com/danigargu/syms2elf) ⭐ 218 | 🐛 4 | 🌐 Python | 📅 2022-08-17
 * [Just a simple radare2 Jupyter kernel](https://github.com/guedou/jupyter-radare2) ⭐ 110 | 🐛 0 | 🌐 Python | 📅 2017-12-22
 * [A radare2 Plugin to perform symbolic execution with a simple macro call (r2 + angr)](https://github.com/gast04/r4ge) ⭐ 106 | 🐛 2 | 🌐 Python | 📅 2022-01-21
@@ -257,4 +257,4 @@ More info [here](http://rada.re/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._

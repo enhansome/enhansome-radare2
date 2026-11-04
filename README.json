@@ -626,7 +626,7 @@
                 "open_issues": 12,
                 "owner": "radareorg",
                 "repo": "radare2-r2pipe",
-                "stars": 468,
+                "stars": 469,
                 "topics": [
                   "r2pipe",
                   "radare2"
@@ -646,8 +646,8 @@
                 "id": 5411297,
                 "language": "C",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-02T15:26:48Z",
-                "open_issues": 38,
+                "last_commit": "2026-11-03T17:30:12Z",
+                "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
                 "stars": 263,
@@ -670,8 +670,8 @@
                 "id": 5411297,
                 "language": "C",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-02T15:26:48Z",
-                "open_issues": 38,
+                "last_commit": "2026-11-03T17:30:12Z",
+                "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
                 "stars": 263,
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T02:39:26.650Z",
+    "last_updated": "2026-11-04T00:55:35.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
