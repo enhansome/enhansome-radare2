@@ -269,7 +269,7 @@
                 "open_issues": 6,
                 "owner": "HexHive",
                 "repo": "T-Fuzz",
-                "stars": 253,
+                "stars": 252,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
@@ -646,7 +646,7 @@
                 "id": 5411297,
                 "language": "C",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-03T17:30:12Z",
+                "last_commit": "2026-11-04T19:23:14Z",
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
@@ -670,7 +670,7 @@
                 "id": 5411297,
                 "language": "C",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-03T17:30:12Z",
+                "last_commit": "2026-11-04T19:23:14Z",
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T00:55:35.406Z",
+    "last_updated": "2026-11-05T01:04:23.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
