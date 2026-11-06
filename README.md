@@ -204,12 +204,12 @@ More info [here](http://rada.re/).
 
 ## Tools
 
-* [Radare2 and Frida better together](https://github.com/nowsecure/r2frida) ⭐ 1,450 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-01
-* [Deep ghidra decompiler integration for radare2](https://github.com/radareorg/r2ghidra-dec) ⭐ 1,003 | 🐛 63 | 🌐 C++ | 📅 2026-10-31
+* [Radare2 and Frida better together](https://github.com/nowsecure/r2frida) ⭐ 1,451 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-06
+* [Deep ghidra decompiler integration for radare2](https://github.com/radareorg/r2ghidra-dec) ⭐ 1,004 | 🐛 63 | 🌐 C++ | 📅 2026-10-31
 * [Fuzzing tool (TFuzz): a fuzzing tool based on program transformation](https://github.com/HexHive/T-Fuzz) ⚠️ Archived
 * [r2frida wiki](https://github.com/enovella/r2frida-wiki) ⭐ 203 | 🐛 2 | 📅 2020-12-11
 * [Malfunction - Malware Analysis Tool using Function Level Fuzzy Hashing](https://github.com/Dynetics/Malfunction) ⭐ 191 | 🐛 3 | 🌐 Python | 📅 2015-12-19
-* [ICSREF: ICS Reverse Engineering Framework](https://github.com/momalab/ICSREF) ⭐ 186 | 🐛 6 | 🌐 Python | 📅 2026-06-23
+* [ICSREF: ICS Reverse Engineering Framework](https://github.com/momalab/ICSREF) ⭐ 187 | 🐛 6 | 🌐 Python | 📅 2026-06-23
 * [Android APK analyzer based on radare2](https://github.com/mhelwig/apk-anal) ⚠️ Archived
 * [Radare2 VMI IO and debugger plugins](https://github.com/Wenzel/r2vmi) ⚠️ Archived
 * [Extract labels from IDA .lst or Ghidra .csv file and export x64dbg database. Supporting radare2](https://github.com/utkonos/lst2x64dbg) ⭐ 116 | 🐛 0 | 🌐 Python | 📅 2023-11-14
@@ -229,7 +229,7 @@ More info [here](http://rada.re/).
 * [Python-r2pipe script that draws ascii and graphviz graphs of library dependencies](https://github.com/radare/radare2-r2pipe/blob/master/python/examples/libgraph.py) ⭐ 469 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-21
 * [Baleful CTF task plugins](https://github.com/radare/radare2-extras/tree/master/baleful) ⭐ 263 | 🐛 37 | 🌐 C | 📅 2026-11-04
 * [r2 plugin to read/write memory using the checkm8 exploit](https://github.com/radareorg/radare2-extras/tree/master/checkm8) ⭐ 263 | 🐛 37 | 🌐 C | 📅 2026-11-04
-* [A plugin for Hex-Ray's IDA Pro and radare2 to export the symbols recognized to the ELF symbol table](https://github.com/danigargu/syms2elf) ⭐ 218 | 🐛 4 | 🌐 Python | 📅 2022-08-17
+* [A plugin for Hex-Ray's IDA Pro and radare2 to export the symbols recognized to the ELF symbol table](https://github.com/danigargu/syms2elf) ⭐ 219 | 🐛 4 | 🌐 Python | 📅 2022-08-17
 * [Just a simple radare2 Jupyter kernel](https://github.com/guedou/jupyter-radare2) ⭐ 110 | 🐛 0 | 🌐 Python | 📅 2017-12-22
 * [A radare2 Plugin to perform symbolic execution with a simple macro call (r2 + angr)](https://github.com/gast04/r4ge) ⭐ 106 | 🐛 2 | 🌐 Python | 📅 2022-01-21
 * [r2kit - a set of scripts for a radare-based malware code analysis workflow](https://github.com/cmatthewbrooks/r2kit) ⚠️ Archived - by @cmatthewbrooks
@@ -257,4 +257,4 @@ More info [here](http://rada.re/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
