@@ -100,7 +100,7 @@
                 "id": 200830202,
                 "language": "Jupyter Notebook",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-09-07T10:11:54Z",
+                "last_commit": "2026-11-06T15:44:06Z",
                 "open_issues": 0,
                 "owner": "arnaugamez",
                 "repo": "talks",
@@ -240,7 +240,7 @@
                 "open_issues": 63,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
-                "stars": 1004,
+                "stars": 1006,
                 "topics": [
                   "decompiler",
                   "disassembler",
@@ -317,7 +317,7 @@
                 "open_issues": 3,
                 "owner": "Dynetics",
                 "repo": "Malfunction",
-                "stars": 191,
+                "stars": 190,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:08:08.787Z",
+    "last_updated": "2026-11-07T00:22:12.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
@@ -1088,7 +1088,7 @@
       "open_issues": 3,
       "owner": "radareorg",
       "repo": "awesome-radare2",
-      "stars": 739,
+      "stars": 738,
       "topics": [
         "awesome",
         "awesome-list",
