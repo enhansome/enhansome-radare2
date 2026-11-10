@@ -208,8 +208,8 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T00:29:41Z",
-                "open_issues": 45,
+                "last_commit": "2026-11-09T18:51:47Z",
+                "open_issues": 46,
                 "owner": "nowsecure",
                 "repo": "r2frida",
                 "stars": 1452,
@@ -240,7 +240,7 @@
                 "open_issues": 63,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
-                "stars": 1006,
+                "stars": 1007,
                 "topics": [
                   "decompiler",
                   "disassembler",
@@ -646,7 +646,7 @@
                 "id": 5411297,
                 "language": "C",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-08T14:31:13Z",
+                "last_commit": "2026-11-09T12:53:48Z",
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
@@ -670,7 +670,7 @@
                 "id": 5411297,
                 "language": "C",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-08T14:31:13Z",
+                "last_commit": "2026-11-09T12:53:48Z",
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T00:03:58.953Z",
+    "last_updated": "2026-11-10T02:56:17.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
