@@ -208,11 +208,11 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T18:51:47Z",
+                "last_commit": "2026-11-11T13:53:19Z",
                 "open_issues": 46,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1452,
+                "stars": 1453,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -240,7 +240,7 @@
                 "open_issues": 63,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
-                "stars": 1007,
+                "stars": 1008,
                 "topics": [
                   "decompiler",
                   "disassembler",
@@ -568,7 +568,7 @@
                 "open_issues": 0,
                 "owner": "Cr4sh",
                 "repo": "ThinkPwn",
-                "stars": 711,
+                "stars": 713,
                 "topics": [
                   "0day",
                   "exploit",
@@ -626,7 +626,7 @@
                 "open_issues": 12,
                 "owner": "radareorg",
                 "repo": "radare2-r2pipe",
-                "stars": 469,
+                "stars": 470,
                 "topics": [
                   "r2pipe",
                   "radare2"
@@ -650,7 +650,7 @@
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
-                "stars": 263,
+                "stars": 264,
                 "topics": [
                   "r2pm",
                   "radare2"
@@ -674,7 +674,7 @@
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
-                "stars": 263,
+                "stars": 264,
                 "topics": [
                   "r2pm",
                   "radare2"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:54:49.968Z",
+    "last_updated": "2026-11-12T02:00:27.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
