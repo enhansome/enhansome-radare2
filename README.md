@@ -89,8 +89,8 @@ More info [here](http://rada.re/).
 ## Slides and Workshops
 
 * [Radare2 Workshop 2015 (Defcon)](https://github.com/maijin/workshop2015) ⚠️ Archived
-* [Radare2 cheat-sheet](https://github.com/zxgio/r2-cheatsheet) ⭐ 114 | 🐛 0 | 🌐 TeX | 📅 2018-11-15
-* [Brief intro to RE using @radareorg](https://github.com/arnaugamez/talks/tree/master/2018/02_noconname-lab) ⭐ 98 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-06
+* [Radare2 cheat-sheet](https://github.com/zxgio/r2-cheatsheet) ⭐ 113 | 🐛 0 | 🌐 TeX | 📅 2018-11-15
+* [Brief intro to RE using @radareorg](https://github.com/arnaugamez/talks/tree/master/2018/02_noconname-lab) ⭐ 99 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-06
 * [r2m2 - radare2 + miasm2 = ♥](https://guedou.github.io/r2m2_talks/2016_r2con/slides.pdf)
 * [Emulating Code In Radare2](http://radare.org/get/lacon2k15-esil.pdf)
 * [Radare from A to Z 2015](http://radare.org/get/RadareAZ-NN2015.pdf)
@@ -205,11 +205,11 @@ More info [here](http://rada.re/).
 ## Tools
 
 * [Radare2 and Frida better together](https://github.com/nowsecure/r2frida) ⭐ 1,453 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-11
-* [Deep ghidra decompiler integration for radare2](https://github.com/radareorg/r2ghidra-dec) ⭐ 1,008 | 🐛 63 | 🌐 C++ | 📅 2026-10-31
+* [Deep ghidra decompiler integration for radare2](https://github.com/radareorg/r2ghidra-dec) ⭐ 1,010 | 🐛 63 | 🌐 C++ | 📅 2026-10-31
 * [Fuzzing tool (TFuzz): a fuzzing tool based on program transformation](https://github.com/HexHive/T-Fuzz) ⚠️ Archived
 * [r2frida wiki](https://github.com/enovella/r2frida-wiki) ⭐ 203 | 🐛 2 | 📅 2020-12-11
 * [Malfunction - Malware Analysis Tool using Function Level Fuzzy Hashing](https://github.com/Dynetics/Malfunction) ⭐ 190 | 🐛 3 | 🌐 Python | 📅 2015-12-19
-* [ICSREF: ICS Reverse Engineering Framework](https://github.com/momalab/ICSREF) ⭐ 187 | 🐛 6 | 🌐 Python | 📅 2026-06-23
+* [ICSREF: ICS Reverse Engineering Framework](https://github.com/momalab/ICSREF) ⭐ 188 | 🐛 6 | 🌐 Python | 📅 2026-06-23
 * [Android APK analyzer based on radare2](https://github.com/mhelwig/apk-anal) ⚠️ Archived
 * [Radare2 VMI IO and debugger plugins](https://github.com/Wenzel/r2vmi) ⚠️ Archived
 * [Extract labels from IDA .lst or Ghidra .csv file and export x64dbg database. Supporting radare2](https://github.com/utkonos/lst2x64dbg) ⭐ 116 | 🐛 0 | 🌐 Python | 📅 2023-11-14
@@ -225,10 +225,10 @@ More info [here](http://rada.re/).
 ## Scripts
 
 * [ThinkPwn Scanner](https://github.com/Cr4sh/ThinkPwn/blob/master/scan_thinkpwn.py) ⭐ 713 | 🐛 0 | 🌐 C | 📅 2022-05-13 - by @d\_olex and @trufae
-* [radare2 plugin - converts asm to pseudo-C code (experimental)](https://github.com/wargio/r2dec-js) ⭐ 613 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-16
+* [radare2 plugin - converts asm to pseudo-C code (experimental)](https://github.com/wargio/r2dec-js) ⭐ 612 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-16
 * [Python-r2pipe script that draws ascii and graphviz graphs of library dependencies](https://github.com/radare/radare2-r2pipe/blob/master/python/examples/libgraph.py) ⭐ 470 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-21
-* [Baleful CTF task plugins](https://github.com/radare/radare2-extras/tree/master/baleful) ⭐ 264 | 🐛 37 | 🌐 C | 📅 2026-11-09
-* [r2 plugin to read/write memory using the checkm8 exploit](https://github.com/radareorg/radare2-extras/tree/master/checkm8) ⭐ 264 | 🐛 37 | 🌐 C | 📅 2026-11-09
+* [Baleful CTF task plugins](https://github.com/radare/radare2-extras/tree/master/baleful) ⭐ 263 | 🐛 37 | 🌐 C | 📅 2026-11-09
+* [r2 plugin to read/write memory using the checkm8 exploit](https://github.com/radareorg/radare2-extras/tree/master/checkm8) ⭐ 263 | 🐛 37 | 🌐 C | 📅 2026-11-09
 * [A plugin for Hex-Ray's IDA Pro and radare2 to export the symbols recognized to the ELF symbol table](https://github.com/danigargu/syms2elf) ⭐ 219 | 🐛 4 | 🌐 Python | 📅 2022-08-17
 * [Just a simple radare2 Jupyter kernel](https://github.com/guedou/jupyter-radare2) ⭐ 110 | 🐛 0 | 🌐 Python | 📅 2017-12-22
 * [A radare2 Plugin to perform symbolic execution with a simple macro call (r2 + angr)](https://github.com/gast04/r4ge) ⭐ 106 | 🐛 2 | 🌐 Python | 📅 2022-01-21
@@ -257,4 +257,4 @@ More info [here](http://rada.re/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

@@ -80,7 +80,7 @@
                 "open_issues": 0,
                 "owner": "zxgio",
                 "repo": "r2-cheatsheet",
-                "stars": 114,
+                "stars": 113,
                 "topics": [
                   "cheatsheet",
                   "radare2"
@@ -104,7 +104,7 @@
                 "open_issues": 0,
                 "owner": "arnaugamez",
                 "repo": "talks",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
@@ -240,7 +240,7 @@
                 "open_issues": 63,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
-                "stars": 1008,
+                "stars": 1010,
                 "topics": [
                   "decompiler",
                   "disassembler",
@@ -338,7 +338,7 @@
                 "open_issues": 6,
                 "owner": "momalab",
                 "repo": "ICSREF",
-                "stars": 187,
+                "stars": 188,
                 "topics": [
                   "binaries",
                   "codesys",
@@ -597,7 +597,7 @@
                 "open_issues": 36,
                 "owner": "wargio",
                 "repo": "r2dec-js",
-                "stars": 613,
+                "stars": 612,
                 "topics": [
                   "assembly",
                   "converts-asm",
@@ -650,7 +650,7 @@
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
-                "stars": 264,
+                "stars": 263,
                 "topics": [
                   "r2pm",
                   "radare2"
@@ -674,7 +674,7 @@
                 "open_issues": 37,
                 "owner": "radareorg",
                 "repo": "radare2-extras",
-                "stars": 264,
+                "stars": 263,
                 "topics": [
                   "r2pm",
                   "radare2"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T02:00:27.876Z",
+    "last_updated": "2026-11-13T01:29:01.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
