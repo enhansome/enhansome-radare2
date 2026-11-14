@@ -208,11 +208,11 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-11T13:53:19Z",
-                "open_issues": 46,
+                "last_commit": "2026-11-13T23:32:55Z",
+                "open_issues": 47,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1453,
+                "stars": 1454,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -290,7 +290,7 @@
                 "open_issues": 2,
                 "owner": "enovella",
                 "repo": "r2frida-wiki",
-                "stars": 203,
+                "stars": 204,
                 "topics": [
                   "dynamic-analysis",
                   "frida",
@@ -597,7 +597,7 @@
                 "open_issues": 36,
                 "owner": "wargio",
                 "repo": "r2dec-js",
-                "stars": 612,
+                "stars": 613,
                 "topics": [
                   "assembly",
                   "converts-asm",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T01:29:01.888Z",
+    "last_updated": "2026-11-14T01:03:42.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
