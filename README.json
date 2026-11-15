@@ -212,7 +212,7 @@
                 "open_issues": 47,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1454,
+                "stars": 1455,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -240,7 +240,7 @@
                 "open_issues": 63,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
-                "stars": 1010,
+                "stars": 1012,
                 "topics": [
                   "decompiler",
                   "disassembler",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:03:42.614Z",
+    "last_updated": "2026-11-15T00:20:36.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
