@@ -90,7 +90,7 @@ More info [here](http://rada.re/).
 
 * [Radare2 Workshop 2015 (Defcon)](https://github.com/maijin/workshop2015) ⚠️ Archived
 * [Radare2 cheat-sheet](https://github.com/zxgio/r2-cheatsheet) ⭐ 113 | 🐛 0 | 🌐 TeX | 📅 2018-11-15
-* [Brief intro to RE using @radareorg](https://github.com/arnaugamez/talks/tree/master/2018/02_noconname-lab) ⭐ 99 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-06
+* [Brief intro to RE using @radareorg](https://github.com/arnaugamez/talks/tree/master/2018/02_noconname-lab) ⭐ 100 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-06
 * [r2m2 - radare2 + miasm2 = ♥](https://guedou.github.io/r2m2_talks/2016_r2con/slides.pdf)
 * [Emulating Code In Radare2](http://radare.org/get/lacon2k15-esil.pdf)
 * [Radare from A to Z 2015](http://radare.org/get/RadareAZ-NN2015.pdf)
@@ -204,7 +204,7 @@ More info [here](http://rada.re/).
 
 ## Tools
 
-* [Radare2 and Frida better together](https://github.com/nowsecure/r2frida) ⭐ 1,455 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-13
+* [Radare2 and Frida better together](https://github.com/nowsecure/r2frida) ⭐ 1,455 | 🐛 48 | 🌐 TypeScript | 📅 2026-11-17
 * [Deep ghidra decompiler integration for radare2](https://github.com/radareorg/r2ghidra-dec) ⭐ 1,013 | 🐛 63 | 🌐 C++ | 📅 2026-10-31
 * [Fuzzing tool (TFuzz): a fuzzing tool based on program transformation](https://github.com/HexHive/T-Fuzz) ⚠️ Archived
 * [r2frida wiki](https://github.com/enovella/r2frida-wiki) ⭐ 204 | 🐛 2 | 📅 2020-12-11
@@ -224,7 +224,7 @@ More info [here](http://rada.re/).
 
 ## Scripts
 
-* [ThinkPwn Scanner](https://github.com/Cr4sh/ThinkPwn/blob/master/scan_thinkpwn.py) ⭐ 713 | 🐛 0 | 🌐 C | 📅 2022-05-13 - by @d\_olex and @trufae
+* [ThinkPwn Scanner](https://github.com/Cr4sh/ThinkPwn/blob/master/scan_thinkpwn.py) ⭐ 714 | 🐛 0 | 🌐 C | 📅 2022-05-13 - by @d\_olex and @trufae
 * [radare2 plugin - converts asm to pseudo-C code (experimental)](https://github.com/wargio/r2dec-js) ⭐ 614 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-16
 * [Python-r2pipe script that draws ascii and graphviz graphs of library dependencies](https://github.com/radare/radare2-r2pipe/blob/master/python/examples/libgraph.py) ⭐ 470 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-21
 * [Baleful CTF task plugins](https://github.com/radare/radare2-extras/tree/master/baleful) ⭐ 263 | 🐛 37 | 🌐 C | 📅 2026-11-09
@@ -257,4 +257,4 @@ More info [here](http://rada.re/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
