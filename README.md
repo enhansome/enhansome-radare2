@@ -205,7 +205,7 @@ More info [here](http://rada.re/).
 ## Tools
 
 * [Radare2 and Frida better together](https://github.com/nowsecure/r2frida) ⭐ 1,456 | 🐛 48 | 🌐 TypeScript | 📅 2026-11-17
-* [Deep ghidra decompiler integration for radare2](https://github.com/radareorg/r2ghidra-dec) ⭐ 1,013 | 🐛 63 | 🌐 C++ | 📅 2026-10-31
+* [Deep ghidra decompiler integration for radare2](https://github.com/radareorg/r2ghidra-dec) ⭐ 1,014 | 🐛 63 | 🌐 C++ | 📅 2026-10-31
 * [Fuzzing tool (TFuzz): a fuzzing tool based on program transformation](https://github.com/HexHive/T-Fuzz) ⚠️ Archived
 * [r2frida wiki](https://github.com/enovella/r2frida-wiki) ⭐ 204 | 🐛 2 | 📅 2020-12-11
 * [Malfunction - Malware Analysis Tool using Function Level Fuzzy Hashing](https://github.com/Dynetics/Malfunction) ⭐ 190 | 🐛 3 | 🌐 Python | 📅 2015-12-19
@@ -257,4 +257,4 @@ More info [here](http://rada.re/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
