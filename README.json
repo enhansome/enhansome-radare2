@@ -236,8 +236,8 @@
                 "id": 196547485,
                 "language": "C++",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-21T11:46:30Z",
-                "open_issues": 62,
+                "last_commit": "2026-11-22T08:29:04Z",
+                "open_issues": 61,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
                 "stars": 1014,
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T00:41:09.071Z",
+    "last_updated": "2026-11-23T01:08:29.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
