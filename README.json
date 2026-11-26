@@ -208,11 +208,11 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-24T22:11:42Z",
+                "last_commit": "2026-11-25T18:28:59Z",
                 "open_issues": 48,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1457,
+                "stars": 1458,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -240,7 +240,7 @@
                 "open_issues": 61,
                 "owner": "rizinorg",
                 "repo": "rz-ghidra",
-                "stars": 1015,
+                "stars": 1017,
                 "topics": [
                   "decompiler",
                   "disassembler",
@@ -626,7 +626,7 @@
                 "open_issues": 12,
                 "owner": "radareorg",
                 "repo": "radare2-r2pipe",
-                "stars": 470,
+                "stars": 471,
                 "topics": [
                   "r2pipe",
                   "radare2"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:45:30.360Z",
+    "last_updated": "2026-11-26T03:09:27.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
