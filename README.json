@@ -208,8 +208,8 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-25T18:28:59Z",
-                "open_issues": 48,
+                "last_commit": "2026-11-26T08:51:44Z",
+                "open_issues": 37,
                 "owner": "nowsecure",
                 "repo": "r2frida",
                 "stars": 1458,
@@ -597,7 +597,7 @@
                 "open_issues": 36,
                 "owner": "wargio",
                 "repo": "r2dec-js",
-                "stars": 613,
+                "stars": 614,
                 "topics": [
                   "assembly",
                   "converts-asm",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:09:27.367Z",
+    "last_updated": "2026-11-27T03:17:04.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
