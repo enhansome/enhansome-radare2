@@ -204,7 +204,7 @@ More info [here](http://rada.re/).
 
 ## Tools
 
-* [Radare2 and Frida better together](https://github.com/nowsecure/r2frida) ⭐ 1,458 | 🐛 37 | 🌐 TypeScript | 📅 2026-11-26
+* [Radare2 and Frida better together](https://github.com/nowsecure/r2frida) ⭐ 1,458 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-28
 * [Deep ghidra decompiler integration for radare2](https://github.com/radareorg/r2ghidra-dec) ⭐ 1,017 | 🐛 61 | 🌐 C++ | 📅 2026-11-24
 * [Fuzzing tool (TFuzz): a fuzzing tool based on program transformation](https://github.com/HexHive/T-Fuzz) ⚠️ Archived
 * [r2frida wiki](https://github.com/enovella/r2frida-wiki) ⭐ 204 | 🐛 2 | 📅 2020-12-11
@@ -229,7 +229,7 @@ More info [here](http://rada.re/).
 * [Python-r2pipe script that draws ascii and graphviz graphs of library dependencies](https://github.com/radare/radare2-r2pipe/blob/master/python/examples/libgraph.py) ⭐ 471 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-24
 * [Baleful CTF task plugins](https://github.com/radare/radare2-extras/tree/master/baleful) ⭐ 263 | 🐛 37 | 🌐 C | 📅 2026-11-24
 * [r2 plugin to read/write memory using the checkm8 exploit](https://github.com/radareorg/radare2-extras/tree/master/checkm8) ⭐ 263 | 🐛 37 | 🌐 C | 📅 2026-11-24
-* [A plugin for Hex-Ray's IDA Pro and radare2 to export the symbols recognized to the ELF symbol table](https://github.com/danigargu/syms2elf) ⭐ 219 | 🐛 4 | 🌐 Python | 📅 2022-08-17
+* [A plugin for Hex-Ray's IDA Pro and radare2 to export the symbols recognized to the ELF symbol table](https://github.com/danigargu/syms2elf) ⭐ 217 | 🐛 4 | 🌐 Python | 📅 2022-08-17
 * [Just a simple radare2 Jupyter kernel](https://github.com/guedou/jupyter-radare2) ⭐ 110 | 🐛 0 | 🌐 Python | 📅 2017-12-22
 * [A radare2 Plugin to perform symbolic execution with a simple macro call (r2 + angr)](https://github.com/gast04/r4ge) ⭐ 106 | 🐛 2 | 🌐 Python | 📅 2022-01-21
 * [r2kit - a set of scripts for a radare-based malware code analysis workflow](https://github.com/cmatthewbrooks/r2kit) ⚠️ Archived - by @cmatthewbrooks
@@ -257,4 +257,4 @@ More info [here](http://rada.re/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._

@@ -208,8 +208,8 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-26T08:51:44Z",
-                "open_issues": 37,
+                "last_commit": "2026-11-28T02:55:53Z",
+                "open_issues": 38,
                 "owner": "nowsecure",
                 "repo": "r2frida",
                 "stars": 1458,
@@ -698,7 +698,7 @@
                 "open_issues": 4,
                 "owner": "danigargu",
                 "repo": "syms2elf",
-                "stars": 219,
+                "stars": 217,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:11.795Z"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:17:04.936Z",
+    "last_updated": "2026-11-28T02:57:42.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, articles and the other materials powered by Radare2",
